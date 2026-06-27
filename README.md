@@ -76,4 +76,4 @@ fault_metrics = clean_df.error_report()
 ---
 
 ## ⚖️ License
-Licensed under the **MIT License**.
+Licensed under the **Apache 2.0**.
